@@ -1,4 +1,6 @@
 Olivian Scent
+![Home Page](screenshots/home.png)
+
 A perfume e-commerce web application developed as a university project. The website provides a shopping experience where users can browse perfumes,
 add products to their cart and complete a checkout process, while administrators can manage the product catalog through a dedicated dashboard.
 
